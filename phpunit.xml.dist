@@ -3,7 +3,7 @@
 <phpunit bootstrap="./vendor/autoload.php" colors="true">
 
     <testsuites>
-        <testsuite name="SfynxAdminBundle Test Suite">
+        <testsuite name="SfynxClassificationBundle Test Suite">
             <directory>./Tests/</directory>
         </testsuite>
     </testsuites>
