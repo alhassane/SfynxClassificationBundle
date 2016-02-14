@@ -2,7 +2,7 @@
   "name": "sfynx-project/sonata-classification-bundle",
   "type": "symfony-bundle",
   "description": "This Bundle overload the SonataClassificationBundle",
-  "keywords": ["cmf", "acl"],
+  "keywords": ["cmf", "sonata"],
   "homepage": "http://pigroupe.github.io/cmf-sfynx/",
   "license": "MIT",
   "authors": [
